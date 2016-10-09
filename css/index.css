@@ -1,0 +1,126 @@
+.bg{
+	position:fixed;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	background:rgba(0,0,0,0.1) url(../img/1.jpg) no-repeat center center;
+	margin:auto;
+	background-size:900px 600px;
+}
+.k{
+	position:absolute;
+	width:100px;
+	height:50px;
+	border-radius:5px;
+	background:rgb(231,213,146);
+	color:black;
+	text-align:center;
+	line-height:50px;
+	cursor:pointer;
+	display:none;
+}
+.end{
+	right:105px;
+	top:100px;
+}
+.reset{
+	right:105px;
+	top:200px;
+}
+.scene{
+	position:absolute;
+	width:900px;
+	height:600px;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	margin:auto;
+	text-align:center;
+	color:white;
+	font-size:60px;
+}
+span{
+	position:absolute;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	margin:auto;
+	text-align:center;
+	color:white;
+	font-size:60px;
+}
+.anniu{
+	position:relative;
+	width:900px;
+	height:600px;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	margin:auto;
+}
+.btn{
+	position: absolute;
+	width:100px;
+	height:50px;
+	border:1px solid white;
+	background:rgb(231,213,146);
+	color:black;
+	text-align:center;
+	line-height:50px;
+	cursor:pointer;
+}
+.close{
+	width:30px;
+	height:30px;
+	background:#fff;
+	border-radius:50%;
+	color:#000;
+	text-align:center;
+	line-height:30px;
+	position:absolute;
+	right:0;
+	top:0;
+	font-size:30px;
+}
+.start{
+	top:350px;
+	left:410px;
+}
+.help{
+	top:450px;
+	left:410px;
+}
+.tanchu{
+	width:350px;
+	height:350px;
+	position:relative;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	margin:auto;
+	background:#000;
+	color:white;
+	display:none;
+	text-align:center;
+	line-height:34px;
+	padding-top:80px;
+}
+.block{
+	width:30px;
+	height:30px;
+	border-radius:5px;
+	float:left;
+}
+.she{
+	background:url(../img/she.jpg) no-repeat center center;
+	background-size:100%;
+}
+.food{
+	background:url(../img/food.jpg) no-repeat center center;
+	background-size:100%;
+}
